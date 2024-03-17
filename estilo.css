@@ -31,7 +31,8 @@
   }
 
   main {
-    background: url("1.jpg") no-repeat center center;
+    background: url("1.png") no-repeat center center;
+    background: url("2.png") no-repeat center center;
     background-size: cover;
     height: 92vh;
   }
